@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="UI-Banner" src="./assets/ui-ai-img.png" />
-</div>
-
 # AccessiAI — Universal Interface AI
 
 Live Demo: [https://universal-interface-ai](https://ai.studio/apps/drive/1JRlp7_kLjZFPLqogpuyjnDJAYRTZuSp6?fullscreenApplet=true)
