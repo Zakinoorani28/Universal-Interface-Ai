@@ -4,7 +4,7 @@
 
 # AccessiAI — Universal Interface AI
 
-Live Demo: https://<your-ai-studio-app-link>
+Live Demo: [https://universal-interface-ai](https://ai.studio/apps/drive/1JRlp7_kLjZFPLqogpuyjnDJAYRTZuSp6?fullscreenApplet=true)
 
 ## Overview
 AccessiAI converts website screenshots into actionable accessibility outputs (UI summary, step-by-step plan, JSON automation script, accessibility rewrite, and a downloadable A4 PDF). Built with Gemini 3 Pro in Google AI Studio Build.
